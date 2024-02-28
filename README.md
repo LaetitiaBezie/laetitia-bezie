@@ -88,7 +88,7 @@ These packages are also available in the <a href=https://github.com/green-code-i
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<h3> Connect with me🤝: <h3>
   </hr>
   <a href="https://www.linkedin.com/https://www.linkedin.com/in/laetitia-bezie">
    <img align="left" alt=" Laetitia Bézie | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
