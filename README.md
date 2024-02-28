@@ -24,9 +24,18 @@
 
 ---
 
-<br>
 <h3>
-    💻 Programming Languages:
+    🌿 My latest contributions to open source projects:
+</h3>
+- <a href=https://www.npmjs.com/package/@greenpoint/eslint-plugin>An eslint-plugin for best practices in ecocoding</a> <br/>
+- <a href=https://www.npmjs.com/package/@greenpoint/stylelint-plugin>A CSS linter enforcing best practices for ecocoding</a> <br/><br/>
+These packages are also available in the <a href=https://github.com/green-code-initiative/ecoCode-javascript><b>GreenIT Ecocode</b></a> community's open-source repository
+</br>
+
+<br>
+
+---
+<h3>    💻 Programming Languages:
 </h3>
    <br>
     <p align="center">
@@ -34,13 +43,12 @@
             <img src="https://skillicons.dev/icons?i=py,java,js,ts,latex,c,cpp,r,html,css " />
         </a>
     </p>
+    </br>
 </br>
 <br>
 
 ---
-<br>
-<h3>
-  🖌️ Frameworks:
+<h3>  🖌️ Frameworks:
 </h3>
    <br>
     <p align="center">
@@ -52,7 +60,6 @@
 <br>
 
 ---
-<br>
 <h3>
     🗃️ Databases:
 </h3>
@@ -66,7 +73,6 @@
 <br>
 
 ---
-<br>
 <h3>
   🛠️ Tools:
 </h3>
